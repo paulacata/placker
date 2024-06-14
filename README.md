@@ -1,4 +1,5 @@
 # placker
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Placker: planificació i registre per a l'estudi eficient dels alumnes
+>>>>>>> d704a4e4b58244628a6b6a2af139875dbf92c6bf
