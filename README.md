@@ -1,20 +1,7 @@
-# placker
-<<<<<<< HEAD
+# Placker: planificació i registre per a l'estudi eficient dels alumnes
 
-A new Flutter project.
+This final degree project aims to create a mobile application designed to facilitate the organization of students' study time. This includes both the scheduling of tasks and the tracking of the time dedicated to them, ensuring the most efficient study planning possible.
 
-## Getting Started
+To carry out this work, the methodology followed has been user-centered, so it has been essential to collect information and evaluate the specific needs of students. The stages of this project include everything from the design of the application based on the observations expressed by the users to its implementation, as well as performing the necessary tests to evaluate the application's usability and ensure a good user experience.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-Placker: planificació i registre per a l'estudi eficient dels alumnes
->>>>>>> d704a4e4b58244628a6b6a2af139875dbf92c6bf
+Through this work, we seek to improve the management of students' academic time through an innovative technological solution.
