@@ -7,6 +7,11 @@ To carry out this work, the methodology followed has been user-centered, so it h
 Through this work, we seek to improve the management of students' academic time through an innovative technological solution.
 
 
+https://github.com/paulacata/placker/assets/72575085/aeb11cf5-684e-4653-b5ba-13f027d63d3b
+
+
+
+
 ## External source code
 Some parts of the code have been adapted from the following sources:
 
